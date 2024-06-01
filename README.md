@@ -3,6 +3,7 @@
 OVERVIEW:
 Baldur's Gate 3 - Custom Auto Save is a Python application designed to automatically save your game at regular intervals. This tool leverages the pyautogui and pydirectinput libraries to simulate key presses, ensuring your progress is saved even if you forget to do so manually.
 
+![AppSS](readmeImage.png)
 
 
 Instruction:
